@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,windows,linux,macos,git,images,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,windows,linux,macos,git,images,visualstudiocode
 
+### Own Files ###
+.idea/
+.vscode/
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
