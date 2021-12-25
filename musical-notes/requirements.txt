@@ -6,3 +6,4 @@ ipywidgets
 display
 ipython
 autopep8
+ipykernel
