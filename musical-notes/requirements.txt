@@ -7,3 +7,6 @@ display
 ipython
 autopep8
 ipykernel
+mido
+MIDIFile
+pretty_midi
