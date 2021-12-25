@@ -17,9 +17,6 @@ command:
     ```bash
     # Create a virtual environment (venv) in the venv directory
     python -m venv venv
-
-    # Activate the virtual environment (Windows)
-    ./venv/Scripts/activate.bat
     ```
 
 1. Activate the virtual environment. In order to use a python venv, you have to
