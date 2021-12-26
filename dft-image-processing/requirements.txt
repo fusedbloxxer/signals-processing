@@ -1,0 +1,12 @@
+jupyter
+numpy
+matplotlib
+sounddevice
+ipywidgets
+display
+ipython
+autopep8
+ipykernel
+mido
+MIDIFile
+pretty_midi
