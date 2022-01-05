@@ -11,3 +11,4 @@ mido
 MIDIFile
 pretty_midi
 opencv-python
+pydub
